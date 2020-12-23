@@ -29,7 +29,9 @@
     "koa-bodyparser": "^4.3.0",
     "koa-json": "^2.0.2",
     "koa-logger": "^3.2.1",
-    "koa-router": "^10.0.0"
+    "koa-router": "^10.0.0",
+    "messaging-api-messenger": "^1.0.2",
+    "tencentcloud-sdk-nodejs": "^4.0.37"
   },
   "devDependencies": {
     "@types/jest": "^26.0.18",
