@@ -2143,18 +2143,18 @@ es6-promisify@^5.0.0:
     es6-promise "^4.0.3"
 
 esbuild-node-tsc@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/esbuild-node-tsc/-/esbuild-node-tsc-1.0.5.tgz#ec2a7d7fc5d3798ae38cbe811da404934de8112b"
-  integrity sha512-gXPhNKaKKtBTr2mng8dKbVAckuNx0ERiUS6ZZAI9YxO5o0ZxpiNRp1GNkqwRFLLFKi1Uo5YhH1Lfx/JBYkZ94g==
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/esbuild-node-tsc/-/esbuild-node-tsc-1.0.6.tgz#414a25049454b8caec3c4772b1ead0648d2f6ed2"
+  integrity sha512-rzvLxVYa7mpW77L4Ed2C3DT4e8qSKw/xe4zOFknDr7QZuuyxZ3NS92v7LMT0RY5BYDekLehbx5d5qQU06tgHWw==
   dependencies:
     cpy "^8.1.1"
-    esbuild "^0.8.11"
+    esbuild "^0.8.34"
     rimraf "^3.0.2"
 
-esbuild@^0.8.11:
-  version "0.8.26"
-  resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.8.26.tgz#a85491617ebd2bd35ca4bf479239487eb6819d71"
-  integrity sha512-u3MMHOOumdWoAKF+073GHPpzvVB2cM+y9VD4ZwYs1FAQ6atRPISya35dbrbOu/mM68mQ42P+nwPzQVBTfQhkvQ==
+esbuild@^0.8.34:
+  version "0.8.34"
+  resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.8.34.tgz#16b4ac58f74c821d2c5a8c2f0585ca96a38ab4e6"
+  integrity sha512-tnr0V1ooakYr1aRLXQLzCn2GVG1kBTW3FWpRyC+NgrR3ntsouVpJOlTOV0BS4YLATx3/c+x3h/uBq9lWJlUAtQ==
 
 escape-goat@^2.0.0:
   version "2.1.1"
