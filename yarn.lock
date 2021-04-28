@@ -4145,9 +4145,9 @@ messaging-api-common@^1.0.4:
     url-join "^4.0.1"
 
 messaging-api-messenger@^1.0.2:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/messaging-api-messenger/-/messaging-api-messenger-1.0.4.tgz#117142aa1ca22c387a20c61fa987cbf1c795a1f2"
-  integrity sha512-vBTT/MS1bJlolGgTCv7ttMlBT4XIlu3jOAMDFT1EWQMTlv/G6s4Ot2krsrRFjt/g7aGAgy9B8TtNGiTfsm5g1Q==
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/messaging-api-messenger/-/messaging-api-messenger-1.0.5.tgz#70a4a34df4582def7bc0ea03a8530644e2ed72aa"
+  integrity sha512-T17O+T6YAPkF8zDydsleMBtZ5HmCBDUZNHmF1nUUM82+WLaeqCTTHvJN3XR6hFjOA7XCTEXoxu4z+0A3QZv9yg==
   dependencies:
     "@types/append-query" "^2.0.0"
     "@types/lodash" "^4.14.156"
