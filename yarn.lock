@@ -5586,9 +5586,9 @@ table@^6.0.4:
     string-width "^4.2.0"
 
 tencentcloud-sdk-nodejs@^4.0.37:
-  version "4.0.115"
-  resolved "https://registry.yarnpkg.com/tencentcloud-sdk-nodejs/-/tencentcloud-sdk-nodejs-4.0.115.tgz#ab26b170bddd1bb553296abc7073ffd5cccea5de"
-  integrity sha512-fLLkirll3ZZUuM0M9OSjmV/r2T/jDH5z9s7x27AdRWA5BYOjfDhx1f9L/xA9NbQTLJmQltvU5F0DaCudvZhNUQ==
+  version "4.0.120"
+  resolved "https://registry.yarnpkg.com/tencentcloud-sdk-nodejs/-/tencentcloud-sdk-nodejs-4.0.120.tgz#7608f0de350cae20cab18171dfce21b8edea8d8b"
+  integrity sha512-ABzAXSh755U5lOxIKmUN4+d2G6cu08NKAl3RMc68RVfEobqwDdyAvjh8HPllyMDXb3UlxxgUBjrhiFu0WOtpdQ==
   dependencies:
     babel-eslint "^10.0.2"
     eslint-plugin-react "^7.17.0"
