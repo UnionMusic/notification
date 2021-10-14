@@ -4035,9 +4035,9 @@ messaging-api-common@^1.0.4:
     url-join "^4.0.1"
 
 messaging-api-messenger@^1.0.2:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/messaging-api-messenger/-/messaging-api-messenger-1.0.6.tgz#606209b615dd539d82ec5b6e813b2a2dfea47585"
-  integrity sha512-yLrUGMF5v/PHMtEbfB62C70bqHsL9L9XGGA1v/GCJQeyjS4OWmSXOJTwDUm31chuppWaYx4br7WkxGM8UCDCfQ==
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/messaging-api-messenger/-/messaging-api-messenger-1.1.0.tgz#3a2b068935a6b6754cdc42da6f825c9e2f6aa686"
+  integrity sha512-WfODwHvkkC/oJMrqr7ukm2yTf4DqWg8BvnwmGOU53fRMvuCQNGWYSKQPk8k/s0Evl56J32iDidooGIL9fAGOjQ==
   dependencies:
     "@types/append-query" "^2.0.0"
     "@types/lodash" "^4.14.156"
