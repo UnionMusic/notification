@@ -5467,9 +5467,9 @@ table@^6.0.9:
     strip-ansi "^6.0.0"
 
 tencentcloud-sdk-nodejs@^4.0.37:
-  version "4.0.221"
-  resolved "https://registry.yarnpkg.com/tencentcloud-sdk-nodejs/-/tencentcloud-sdk-nodejs-4.0.221.tgz#efb120ddadc4bb1cd5de07d229e3b897c497a38e"
-  integrity sha512-r5fNNl93AwxVe6C1m3S0ulp4INsxJoXP1nQiqptfk/fS78eMq0W1IXTKMBaB4qv0SrHhAa27DYBI6VDjcxTB2A==
+  version "4.0.251"
+  resolved "https://registry.yarnpkg.com/tencentcloud-sdk-nodejs/-/tencentcloud-sdk-nodejs-4.0.251.tgz#19fab8d865d8034f892f7d015ea0dbc3d1b430f2"
+  integrity sha512-16l6i/oImPDzU5pD4+smcYIoO+TA6E/qFwUztEQsH+lW/8iVn8pBlxMlLE+egIEJkXcWMh+bovJVIY92Vauhuw==
   dependencies:
     form-data "^3.0.0"
     get-stream "^6.0.0"
@@ -5728,9 +5728,9 @@ typedarray-to-buffer@^3.1.5:
     is-typedarray "^1.0.0"
 
 typescript@^4.1.2:
-  version "4.4.4"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.4.4.tgz#2cd01a1a1f160704d3101fd5a58ff0f9fcb8030c"
-  integrity sha512-DqGhF5IKoBl8WNf8C1gu8q0xZSInh9j1kJJMqT3a94w1JzVaBU4EXOSMrz9yDqMT0xt3selp83fuFMQ0uzv6qA==
+  version "4.5.2"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.5.2.tgz#8ac1fba9f52256fdb06fb89e4122fa6a346c2998"
+  integrity sha512-5BlMof9H1yGt0P8/WF+wPNw6GfctgGjXp5hkblpyT+8rkASSmkUKMXrxR0Xg8ThVCi/JnHQiKXeBaEwCeQwMFw==
 
 undefsafe@^2.0.3:
   version "2.0.3"
