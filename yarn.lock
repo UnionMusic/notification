@@ -5475,9 +5475,9 @@ table@^6.0.9:
     strip-ansi "^6.0.0"
 
 tencentcloud-sdk-nodejs@^4.0.37:
-  version "4.0.265"
-  resolved "https://registry.yarnpkg.com/tencentcloud-sdk-nodejs/-/tencentcloud-sdk-nodejs-4.0.265.tgz#9d24c2bb2622e01f733d04970315e92cfd16ae52"
-  integrity sha512-QxuTih2D8j1/56oedTsF8+7FA1GHU8fdJOxzXd927CiTCWg9+ZsWynXXuRVyMB0blv7AHD+06Qmsg27yYm0jGA==
+  version "4.0.302"
+  resolved "https://registry.yarnpkg.com/tencentcloud-sdk-nodejs/-/tencentcloud-sdk-nodejs-4.0.302.tgz#432e6819a4e73cdc24a1d2ca506be6ae580fefa8"
+  integrity sha512-/b1OaRICcca6BSSVCMfa0ljglqzD33OmtrlznP2L+YVBOZMaGpw+933X82z74P76TJVDeH6AQ+ZH79Xy2fhADg==
   dependencies:
     form-data "^3.0.0"
     get-stream "^6.0.0"
